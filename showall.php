@@ -164,11 +164,7 @@ $(document).ready(function(){
 
          </div>
 
-          <!-- <div class="form-group add" id="add">
-            
-            <input type="number" class="form-control" name="" placeholder="Enter number">
-            <button style="margin-top: -70px; margin-left: 230px; cursor: pointer;" class="btn btn-success" name="add_item" id="add_item"><i class="fa fa-plus" aria-hidden="true"></i></button>
-          </div> -->
+          
 
            
            
